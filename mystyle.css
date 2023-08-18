@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  text-align: center;
+  width: 100%;
+  height: auto;
+}
+#myphoto {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+body{
+
+    margin:100px 50px;
+    background-color: lightblue;
+}
+p{
+    text-indent: 70px;
+}
+
+footer{
+    padding: 100px;
+    text-align: center;
+}
+
+#logo {
+    padding: 20px;
+}
